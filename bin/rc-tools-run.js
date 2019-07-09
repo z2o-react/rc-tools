@@ -19,6 +19,7 @@ function runTask(toRun) {
   const taskInstance = gulp.task(toRun)
 
   if (taskInstance === undefined) {
+    console.log(chalk.red('task not found'))
     return
   }
   const start = process.uptime()
