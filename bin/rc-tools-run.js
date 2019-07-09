@@ -29,7 +29,7 @@ function runTask(toRun) {
     console.log(`> ${chalk.yellow('run task ' + toRun)} ${chalk.cyan(duration.toFixed(5) + 's')}`)
   } catch (err) {
     const duration = process.uptime() - start
-    console.log(`> ${chalk.yellow('run task ' + toRun)} ${chalk.cyan(duration.toFixed(5) + 's')}`)
+    console.log(`> ${chalk.red('run task ' + toRun)} ${chalk.cyan(duration.toFixed(5) + 's')}`)
     console.log(err)
   }
 }
