@@ -1,6 +1,6 @@
 {
-  "name": "rc-tools",
-  "version": "1.0.0",
+  "name": "@z2o/rc-tools",
+  "version": "1.0.0-beta.1",
   "description": "Tools For React Component",
   "main": "index.js",
   "bin": {
