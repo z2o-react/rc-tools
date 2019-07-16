@@ -6,4 +6,5 @@ Tools For React Component
 
 ```bash
 $ rc-tools run compile --babel-runtime
+$ rc-tools run storybook
 ```
