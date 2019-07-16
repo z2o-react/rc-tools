@@ -25,6 +25,7 @@
     "babel-loader": "^8.0.6",
     "chalk": "^2.4.2",
     "commander": "^2.20.0",
+    "css-loader": "^3.0.0",
     "fs-extra": "^8.1.0",
     "glob": "^7.1.4",
     "gulp": "^4.0.2",
@@ -32,9 +33,11 @@
     "gulp-less": "^4.0.1",
     "gulp-postcss": "^8.0.0",
     "gulp-typescript": "^5.0.1",
+    "less-loader": "^5.0.0",
     "merge2": "^1.2.3",
     "minimist": "^1.2.0",
     "shelljs": "^0.8.3",
+    "style-loader": "^0.23.1",
     "typescript": "^3.5.3"
   },
   "devDependencies": {
