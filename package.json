@@ -27,6 +27,7 @@
     "commander": "^2.20.0",
     "css-loader": "^3.0.0",
     "fs-extra": "^8.1.0",
+    "gh-pages": "^2.0.1",
     "glob": "^7.1.4",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
