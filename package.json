@@ -1,8 +1,7 @@
 {
   "name": "@z2o/rc-tools",
-  "version": "1.0.0-beta.4",
+  "version": "1.0.0",
   "description": "Tools For React Component",
-  "main": "index.js",
   "bin": {
     "rc-tools": "bin/rc-tools.js"
   },
@@ -44,15 +43,12 @@
   "devDependencies": {
     "gulp-debug": "^4.0.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/z2o-react/rc-tools.git"
   },
   "author": "lishuaishuai",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/z2o-react/rc-tools/issues"
   },
