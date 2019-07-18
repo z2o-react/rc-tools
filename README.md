@@ -2,6 +2,10 @@
 
 Tools For React Component
 
+[![](https://img.shields.io/npm/v/@z2o/rc-tools.svg)](https://www.npmjs.com/package/@z2o/rc-tools)
+[![](https://img.shields.io/npm/dm/@z2o/rc-tools.svg)](https://www.npmjs.com/package/@z2o/rc-tools)
+[![](https://img.shields.io/github/license/z2o-react/rc-tools.svg)](https://github.com/z2o-react/rc-tools/blob/master/LICENSE)
+
 ## Usage
 
 ```bash
