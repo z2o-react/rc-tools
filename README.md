@@ -9,15 +9,18 @@ Tools For React Component
 ## Usage
 
 ```bash
-# 编译 TS 文件，启用babel-runtime
+# compile(TS)
 $ rc-tools run compile --babel-runtime
 
-# 启动 storybook 开发模式
+# start dev server
 $ rc-tools run storybook
 
-# 编译 storybook 生产模式
+# build examples
 $ rc-tools run build
 
-# 编译 storybook 并发布 gh-pages
+# build examples => gh-pages
 $ rc-tools run gh-pages
+
+# compile => npm publish => gh-pages => tag
+$ rc-tools run pub
 ```
