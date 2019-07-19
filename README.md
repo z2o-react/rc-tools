@@ -9,7 +9,7 @@ Tools For React Component
 ## Usage
 
 ```bash
-# compile(TS)
+# compile(TS,JS)
 $ rc-tools run compile --babel-runtime
 
 # start dev server
